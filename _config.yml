@@ -1,6 +1,6 @@
 ---
-title: Indivisible City
-timezone: UTC
+title: IL 14 UNITED
+timezone: America/Chicago
 collections:
   posts:
     title: Posts
@@ -57,15 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: 7 Counties, 4 Area Codes, 83 Zip Codes, 1,589 Square miles, 350,000 Registered
+  Voters... and ONE Republican Congressman!
+email: il14united@gmail.com
 baseurl: 
-url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+url: www.il14united.com
+twitter_username: "@il14united"
+facebook_username: il14united
+background-image: "/uploads/Screen%20Shot%202017-05-07%20at%203.00.40%20PM.png"
+member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
