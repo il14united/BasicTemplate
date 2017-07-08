@@ -57,14 +57,14 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 7 Counties, 4 Area Codes, 83 Zip Codes, 1,589 Square miles, 350,000 Registered
-  Voters... and ONE Republican Congressman!
+subtitle: 7 Counties,   4 Area Codes,   83 Zip Codes,   1,589 Square miles,   350,000
+  Registered Voters... and ONE Republican Congressman!
 email: il14united@gmail.com
 baseurl: 
 url: www.il14united.com
 twitter_username: "@il14united"
-facebook_username: il14united
-background-image: "/uploads/Screen%20Shot%202017-05-07%20at%203.00.40%20PM.png"
+facebook_username: IL14UNITED
+background-image: "/uploads/Screen%20Shot%202017-05-07%20at%203.43.11%20PM.png"
 member-count: 100
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
