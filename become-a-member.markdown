@@ -21,7 +21,7 @@ mailchimp-form-embed: "<!-- Begin MailChimp Signup Form -->\n<link href=\"//cdn-
 layout: becomeAMember
 ---
 
-**IL 14 UNITED** was created to be a Progressive contrast to the many existing Conservative (Tea Party) websites. These organizations, unlike most Progressive ones, are tight-knit, organized and structured. Their memberships are disciplined and display strong, passionate convictions in what they believe in. They are a force to be reckoned with. Progressives may not agree with Conservatives political beliefs, but we must understand and respect the fact that their communication, mobilization and  education techniques are currently superior to ours.
+**IL 14 UNITED.com** was created to be a Progressive contrast to the many existing Conservative (Tea Party) websites. These organizations, unlike most Progressive ones, are tight-knit, organized and structured. Their memberships are disciplined and display strong, passionate convictions in what they believe in. They are a force to be reckoned with. Progressives may not agree with Conservatives political beliefs, but we must understand and respect the fact that their communication, mobilization and  education techniques are currently superior to ours.
 
 Members of IL 14 UNITED are defined by our action and find solidarity in our shared opposition to Congressman Randy Hultgren, Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe that supporting a Progressive congressional candidate, while resisting Trump, is far more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
 
