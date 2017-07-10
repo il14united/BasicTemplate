@@ -5,8 +5,5 @@ position: 0
 website: 'https://www.facebook.com/groups/1733241310335574/
 
 '
-Facebook Page: 'https://www.facebook.com/groups/1733241310335574/
-
-'
 ---
 
