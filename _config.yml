@@ -63,12 +63,12 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: coming soon!
+subtitle: 'Coming Soon: Most of these buttons don''t work yet! Sorry!'
 email: il14united@gmail.com
 baseurl: 
 url: www.il14united.com
 twitter_username: "@il14united"
-facebook_username: IL14UNITED
+facebook_username: il14united
 background-image: "/uploads/Screen%20Shot%202017-05-07%20at%203.43.11%20PM.png"
 member-count: 100
 footer-title: Spread the word. Help build a movement.
