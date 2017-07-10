@@ -2,6 +2,9 @@
 title: IL 14 UNITED (Under Construction)
 timezone: America/Chicago
 collections:
+  representatives:
+    title: 14 District Facebook Groups
+    output: false
   local-heroes:
     title: Local Heroes
     output: true
@@ -11,9 +14,6 @@ collections:
   posts:
     title: Posts
     output: true
-  representatives:
-    title: Representatives
-    output: false
   successes:
     title: Successes
     output: true
