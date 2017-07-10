@@ -25,7 +25,8 @@ layout: becomeAMember
 
 Members of IL 14 UNITED are defined by our action and find solidarity in our shared opposition to Congressman Randy Hultgren, Trump and Trumpism. Each of us explicitly reserves our individual stances on specific issues for other forums as we believe that supporting a Progressive congressional candidate, while resisting Trump, is far more important than any single issue. We adhere to a Code of Conduct that welcomes and respects everybody.
 
-Members of IL 14 UNITED come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and others have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
+Members of IL 14 UNITED come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and others have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our district and our country *and are willing to work for it*.
 
-IL 14 UNITED gives Progressive 14th District constituents a centralized source for News, Events, 
+Stewardship of IL 14 UNITED is provided by numerous admins from various 14th District Progressive Facebook groups, so you are sure to get valuable insight as to what's happening around the Fighting Fourteenth!
 
+IL 14 UNITED provides a centralized source for timely news and upcoming events. Become a Member, get connected and join us in turning Illinois 14th District from red to blue!
