@@ -29,6 +29,8 @@ Members of IL 14 UNITED come from all kinds of backgrounds and political persuas
 
 Stewardship of IL 14 UNITED is provided by numerous admins from various 14th District Progressive Facebook groups;  visitors and members will get valuable insight as to what's happening in our district. 
 
-**IL 14 UNITED** provides a centralized source for Progressive news and events.  Illinois 14th Congressional district is roughly 1,589 square miles which includes parts of 7 counties (DeKalb, DuPage, Kane, Kendall, Lake, McHenry and Will), 4 area codes, 83 zip codes and has an estimated 350,000 registered voters. Additionally, more than 30 Progressive Facebook groups are active with a combined membership of over 15,000. 
+**IL 14 UNITED** provides a centralized source for Progressive to find news and become aware of events near them.  
 
-Become a Member, get connected and join us in turning Illinois 14th District from red to blue!
+Illinois 14th Congressional district is roughly 1,589 square miles which includes parts of 7 counties (DeKalb, DuPage, Kane, Kendall, Lake, McHenry and Will), 4 area codes, 83 zip codes and has an estimated 350,000 registered voters. Additionally, more than 30 Progressive Facebook groups are active with a combined membership of over 15,000. Regretfully, just a handful of print newspapers cover the district and several are owned by the same publishers.
+
+Become a Member of IL 14 UNITED: Get connected and join us in turning Illinois 14th District from red to blue!
