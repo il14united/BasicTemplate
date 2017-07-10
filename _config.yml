@@ -8,9 +8,6 @@ collections:
   local-heroes:
     title: Local Heroes
     output: true
-  organizations:
-    title: Organizations
-    output: true
   posts:
     title: Posts
     output: true
