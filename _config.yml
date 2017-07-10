@@ -5,9 +5,6 @@ collections:
   representatives:
     title: 14 District Facebook Groups
     output: false
-  local-heroes:
-    title: Local Heroes
-    output: true
   posts:
     title: Posts
     output: true
