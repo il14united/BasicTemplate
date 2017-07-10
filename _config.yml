@@ -2,6 +2,9 @@
 title: IL 14 UNITED
 timezone: America/Chicago
 collections:
+  local-heroes:
+    title: Local Heroes
+    output: true
   organizations:
     title: Organizations
     output: true
@@ -60,7 +63,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: IL 14 UNITED
+subtitle: 'Coming Soon: The IL 14 UNITED website!'
 email: il14united@gmail.com
 baseurl: 
 url: www.il14united.com
